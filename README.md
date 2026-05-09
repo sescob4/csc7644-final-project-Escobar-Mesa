@@ -4,7 +4,7 @@ Final Project for CSC 7644: Applied LLM Development
 
 ## Project Overview
 
-The Hybrid RAG Travel Assistant is a Retrieval-Augmented Generation (RAG) application that provides grounded travel recommendations for specific cities using a hybrid retrieval pipeline. The system combines BM25 lexical retrieval and vector similarity retrieval to improve contextual relevance and reduce hallucinations in generated responses.
+The Multi-City Travel Assistant is a Retrieval-Augmented Generation (RAG) application that provides grounded travel recommendations for specific cities using a hybrid retrieval pipeline. The system combines BM25 lexical retrieval and vector similarity retrieval to improve contextual relevance and reduce hallucinations in generated responses.
 
 The application was designed to address the issue of generic LLMs generating outdated or unsupported travel recommendations when relying only on pretrained knowledge. Instead of generating responses from general model memory, the system retrieves relevant travel passages from a curated document corpus and uses them to generate grounded travel responses.
 
