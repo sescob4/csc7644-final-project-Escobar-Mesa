@@ -274,11 +274,15 @@ project-root/
 ├── app.py
 ├── travel_rag.py
 ├── evaluate_rag.py
+├── rag_evaluation_results.csv
 ├── requirements.txt
 ├── README.md
+├── .gitignore
 │
 ├── data/
 │   └── corpus/
+│       └── *.txt travel documents
+
 ```
 
 ## File Descriptions
@@ -295,9 +299,17 @@ Core backend RAG pipeline implementation.
 
 Evaluation and benchmarking script.
 
+### `rag_evaluation_results.csv`
+
+Saved evaluation output containing retrieval metrics and test query results.
+
 ### `requirements.txt`
 
 Project dependency list.
+
+### `.gitignore`
+
+Specifies files and directories excluded from GitHub repository
 
 ### `data/corpus/`
 
