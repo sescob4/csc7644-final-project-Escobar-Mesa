@@ -1,0 +1,205 @@
+query,expected_city,detected_city,query_city_detected_correctly,precision_at_8,chunk_city_accuracy,source_diversity,retrieval_time_seconds,response_time_seconds,answer
+What are some good nightlife options in New Orleans?,New Orleans,New Orleans,True,0.5,1.0,3,1.4474372863769531,6.892741918563843,"New Orleans offers a vibrant nightlife scene with a mix of live music, bars, and unique local experiences. Here are some top options to consider:
+
+- **Frenchmen Street**: This area is renowned for its authentic nightlife and live music venues. Popular spots include Blue Nile, Cafe Negril, Maison, and The Spotted Cat. It's less tourist-heavy than Bourbon Street, making it a favorite among locals (Passage 2, Passage 3).
+
+- **Bourbon Street**: The most famous nightlife street in New Orleans, Bourbon Street is bustling with bars, karaoke venues, and live music. While it can be crowded and tourist-oriented, it’s worth experiencing briefly for its lively atmosphere (Passage 2, Passage 4).
+
+- **Howlin’ Wolf and Maple Leaf**: These venues are noted for their live music, featuring popular bands like the Hot 8 Brass Band and Rebirth Brass Band. They contribute to the rich local nightlife atmosphere (Passage 2).
+
+- **Frenchmen Art Market**: While primarily an art market, it also features local crafts and can be a great spot to experience the local culture during the evening (Passage 2).
+
+- **Cat's Meow**: A recommended stop for karaoke, this venue is part of the lively Bourbon Street scene (Passage 2).
+
+For a more authentic experience, consider spending your evening on Frenchmen Street, where you can enjoy live jazz music and a local atmosphere, while also exploring various restaurants and bars in the area (Passage 3)."
+Plan a weekend trip to New York City.,New York City,New York City,True,1.0,1.0,2,0.8690764904022217,9.815361976623535,"Here's a weekend trip itinerary for New York City, packed with iconic attractions and experiences.
+
+### Friday Night
+- **Times Square**
+  - Experience the vibrant atmosphere with massive digital billboards and bright lights. It's particularly lively at night and offers a quintessential New York experience (Passage 5).
+
+### Saturday Morning
+- **Central Park**
+  - Start your day with a stroll through Central Park. Enjoy highlights like Bethesda Fountain and the Loeb Boathouse, all while surrounded by nature in the heart of the city (Passage 4, Passage 5).
+
+### Saturday Afternoon
+- **The Metropolitan Museum of Art (The Met)**
+  - After exploring Central Park, visit The Met, one of the most renowned art museums in the world. It offers a vast collection that spans thousands of years (Passage 6).
+  
+- **Lunch at a Local Bodega**
+  - Grab a breakfast sandwich or a quick bite at a nearby bodega for an inexpensive and filling meal (Passage 8).
+
+### Saturday Night
+- **Broadway Show**
+  - Conclude your day with a Broadway show. The theater district is right near Times Square, making it a convenient option after your afternoon activities (Passage 6).
+
+### Sunday Morning
+- **Cruise Past the Statue of Liberty**
+  - Take a boat tour to see the Statue of Liberty up close. This is a must-do for first-time visitors to New York City (Passage 1).
+
+### Sunday Afternoon
+- **Governors Island**
+  - Spend your afternoon on Governors Island, where you can enjoy stunning views of the Manhattan skyline and relax in a more tranquil setting (Passage 2).
+
+This itinerary offers a blend of iconic sights, cultural experiences, and local flavors, ensuring a memorable weekend in New York City."
+What are family friendly activities in Atlanta?,Atlanta,Atlanta,True,1.0,1.0,4,0.4375133514404297,6.238890886306763,"Here are some family-friendly activities you can enjoy in Atlanta:
+
+- **Georgia Aquarium**  
+  Located in Downtown Atlanta, this aquarium features large exhibits and marine life experiences, making it a captivating destination for families (Passage 3).
+
+- **World of Coca-Cola**  
+  Also in Downtown, this attraction showcases the history of Coca-Cola with interactive exhibits and beverage tastings, perfect for engaging visitors of all ages (Passage 3).
+
+- **Zoo Atlanta**  
+  Situated in Grant Park, Zoo Atlanta is home to giant pandas and over 1,300 animals from more than 220 species. The zoo offers a family-friendly atmosphere with additional attractions like a train ride and a carousel (Passage 1, Passage 3).
+
+- **College Football Hall of Fame**  
+  This interactive museum in Downtown Atlanta features football exhibits that are fun and educational for sports enthusiasts in the family (Passage 3).
+
+- **Centennial Olympic Park**  
+  A great outdoor space in Downtown, this park offers a fun environment for families to relax and enjoy various activities (Passage 2).
+
+- **Fernbank Museum of Natural History**  
+  This museum features science and natural history exhibits, including dinosaur displays, which are particularly appealing to children (Passage 3).
+
+These attractions provide a mix of educational and entertaining experiences suitable for families visiting Atlanta."
+What are outdoor things to do in Los Angeles?,Los Angeles,Los Angeles,True,1.0,1.0,3,0.4389965534210205,5.871715307235718,"Los Angeles offers a variety of outdoor activities that allow you to enjoy its beautiful weather and scenic landscapes. Here are some top recommendations:
+
+- **Griffith Park**: This expansive park features accessible hiking trails and is home to the iconic Griffith Observatory, which provides stunning views of the city, especially at sunset (Passage 1, Passage 4).
+
+- **Santa Monica Beaches**: Enjoy the sun and surf at Santa Monica Beach, where you can also visit the Santa Monica Pier, which combines rides and food options (Passage 2, Passage 6).
+
+- **Malibu Beaches**: Explore the beautiful beaches of Malibu, including Zuma Beach and Leo Carrillo State Beach, perfect for sunbathing and beach activities (Passage 4, Passage 5).
+
+- **Eaton Canyon**: This area offers hiking opportunities, including trails leading to Eaton Canyon Falls, making it a great spot for outdoor enthusiasts (Passage 7).
+
+- **Hollywood Sign Hiking Trails**: For a more iconic experience, consider hiking trails that lead to views of the Hollywood Sign, providing a unique perspective of this famous landmark (Passage 7).
+
+These outdoor activities highlight the natural beauty and recreational opportunities available in Los Angeles."
+Where should I eat in Houston?,Houston,Houston,True,1.0,1.0,3,0.6135842800140381,7.364831924438477,"Here are some great places to eat in Houston:
+
+- **Crawfish Cafe**  
+  Known for its Viet-Cajun cuisine and seafood boils, this restaurant offers a unique blend of flavors with dishes like crawfish etouffee and crawfish beignets. It has multiple locations, making it accessible (Passage 1).
+
+- **The Breakfast Klub**  
+  Famous for its chicken and waffles, this spot is a must-visit for comfort food lovers. The restaurant features artwork celebrating Black musicians and artists, adding to its vibrant atmosphere (Passage 2).
+
+- **Titas Taco House**  
+  A breakfast and lunch taco restaurant near George Bush Intercontinental Airport, Titas Taco House is known for its fresh breakfast tacos and house-made flour tortillas, providing a friendly local vibe (Passage 1).
+
+- **BB’s Tex-Orleans**  
+  This restaurant serves New Orleans-style Cajun cuisine with a Texas twist, featuring crab boils and crawfish dishes. It's a great place to experience Tex-Orleans flavors (Passage 2).
+
+- **Trill Burgers**  
+  Owned by Bun B, this Houston-made burger joint is popular for its fresh, crispy fries and even offers a vegan burger option. Expect a line, as it’s a local favorite (Passage 8).
+
+- **Ruiz Tortilleria y Taqueria**  
+  Specializing in fresh tortillas and tacos, this taqueria is known for its quality Mexican food products, making it a great choice for authentic Mexican cuisine (Passage 3).
+
+These options showcase a variety of flavors and dining experiences available in Houston."
+Give me museum recommendations in New York City.,New York City,New York City,True,0.625,1.0,4,0.7655560970306396,9.379801273345947,"Here are some excellent museum recommendations in New York City:
+
+1. **Metropolitan Museum of Art**
+   - A major cultural institution featuring extensive collections, including ancient art, contemporary art, and costume collections. It is recommended to budget at least a half-day for your visit, and admission is approximately $30 (Passage 1, Passage 4).
+
+2. **Museum of Modern Art (MoMA)**
+   - Known for its impressive collection of modern and contemporary art, this museum is a must-visit for art lovers (Passage 1, Passage 8).
+
+3. **Museum of Natural History**
+   - This museum offers a fascinating look at natural history and is popular among visitors (Passage 1).
+
+4. **Guggenheim Museum**
+   - Renowned for its unique architecture and modern art collection, the Guggenheim is another essential stop for art enthusiasts (Passage 1, Passage 8).
+
+5. **9/11 Memorial and Museum**
+   - A poignant site dedicated to the events of September 11, 2001, this museum provides historical context and personal stories related to the tragedy (Passage 1, Passage 3).
+
+6. **New York Public Library**
+   - A historic library that is not only a place for books but also offers beautiful architecture and exhibitions (Passage 1, Passage 3).
+
+7. **The Frick Collection**
+   - This museum features a collection of old master paintings and fine furniture in a historic mansion setting (Passage 8).
+
+These museums offer a diverse range of art, culture, and history, making them essential stops during your visit to New York City."
+What should I do in New Orleans for a short weekend?,New Orleans,New Orleans,True,0.75,1.0,3,0.5490026473999023,9.020879030227661,"For a short weekend in New Orleans, you can experience a mix of the city's vibrant culture, delicious food, and lively nightlife. Here’s a suggested itinerary to maximize your time:
+
+### Friday Night
+- **Frenchmen Street**: Start your weekend with live music at one of the popular venues like Blue Nile or The Spotted Cat. This area is known for its local nightlife atmosphere and less tourist-heavy vibe compared to Bourbon Street (Passage 7).
+
+### Saturday Morning
+- **Cafe du Monde**: Enjoy classic beignets and coffee at this iconic café. It's a must-visit for a true taste of New Orleans (Passage 3).
+  
+### Saturday Afternoon
+- **Garden District**: Spend a few hours walking through this picturesque neighborhood, known for its Victorian-style homes and tree-lined streets. You can also explore Magazine Street for shopping and cafes (Passage 7).
+- **City Park**: After the Garden District, head to City Park for a relaxing outdoor experience. This park offers beautiful walking areas and is perfect for enjoying the local scenery (Passage 5).
+
+### Saturday Night
+- **Pat O’Brien’s**: Experience the nightlife with a drink at this famous bar, known for its vibrant atmosphere (Passage 3).
+- **Frenchmen Street**: Return to Frenchmen Street for more live music and a lively local scene (Passage 5).
+
+### Sunday Morning
+- **Historic French Quarter Walking Tour**: Take a guided tour to learn about the history and culture of this iconic area, which is filled with historic architecture and vibrant street life (Passage 5).
+
+This itinerary allows you to experience the best of New Orleans’ food, music, and culture in a short weekend. Enjoy your trip!"
+What are free things to do in Los Angeles?,Los Angeles,Los Angeles,True,1.0,1.0,1,0.7866075038909912,4.974825382232666,"There are several free activities to enjoy in Los Angeles:
+
+- **Griffith Observatory**: This iconic location offers stunning sunset views and is a great spot to see the city from above. It's a popular choice for visitors looking to experience the beauty of Los Angeles without spending money (Passage 1, Passage 8).
+
+- **California Science Center**: This interactive museum is ideal for families and children, providing educational exhibits at no cost (Passage 3).
+
+- **Griffith Park**: A vast area that offers open space for outdoor exploration, hiking trails, and picnicking, making it a perfect spot for nature lovers (Passage 2, Passage 3).
+
+- **The Getty Center**: Admission is free, and it features impressive art collections along with beautiful gardens and views of the city (Passage 5).
+
+- **Santa Monica Pier**: While it has attractions, visiting the pier itself and enjoying the beach is a classic experience that doesn’t require spending money (Passage 8).
+
+These options provide a mix of cultural, educational, and scenic experiences that showcase the best of Los Angeles without any cost."
+What are good tourist attractions in Atlanta?,Atlanta,Atlanta,True,1.0,1.0,4,0.5479984283447266,7.067915201187134,"Atlanta offers a variety of attractions that are perfect for tourists. Here are some top recommendations:
+
+- **Georgia Aquarium**  
+  Located in Downtown Atlanta, this aquarium features large exhibits and marine life experiences, including opportunities to see whale sharks. It's advisable to reserve tickets for popular presentations in advance (Passage 1, Passage 3).
+
+- **Zoo Atlanta**  
+  Situated in Grant Park, Zoo Atlanta is notable for its giant pandas and houses over 1,300 animals from more than 220 species. Visitors can enjoy additional attractions like a train ride and a ropes course (Passage 2, Passage 4).
+
+- **World of Coca-Cola**  
+  Also in Downtown Atlanta, this attraction showcases Coca-Cola's history and offers interactive exhibits and beverage tastings, making it a fun stop for families (Passage 3).
+
+- **Centennial Olympic Park**  
+  Built for the 1996 Summer Olympics, this park is a central gathering space in the city, surrounded by other attractions such as the National Center for Civil and Human Rights and the College Football Hall of Fame (Passage 6).
+
+- **High Museum of Art**  
+  Located in Midtown, this museum features a diverse collection of art and is a key cultural destination in Atlanta (Passage 2).
+
+- **Atlanta BeltLine**  
+  This is an outdoor experience that includes trails and parks, perfect for walking or biking while enjoying the city's scenery (Passage 2, Passage 7).
+
+These attractions provide a mix of cultural, historical, and family-friendly experiences, making them ideal for any tourist visiting Atlanta."
+What are good places to visit in Houston?,Houston,Houston,True,1.0,1.0,4,0.7006635665893555,8.786365747451782,"Houston offers a variety of attractions that cater to different interests. Here are some notable places to visit:
+
+### Museums and Cultural Attractions
+- **Museum District**: This area is home to 19 museums, including the Museum of Fine Arts and The Menil Collection, making it a cultural hub in Houston. Many museums offer free admission on Thursdays (Passage 6).
+- **Museum of Fine Arts, Houston**: A major cultural attraction featuring diverse art collections. Admission is $19 for adults and $12 for college students and youth (Passage 1).
+- **Houston Museum of Natural Science**: A popular choice for science enthusiasts and families (Passage 5).
+- **Meow Wolf**: An immersive art experience that is family-friendly (Passage 2).
+
+### Outdoor Activities
+- **Hermann Park**: A large park ideal for outdoor activities, including walking and picnicking (Passage 5).
+- **Buffalo Bayou Park**: Offers scenic views and recreational opportunities (Passage 5).
+- **Gerald D. Hines Waterwall Park**: A beautiful park featuring a stunning water wall, perfect for a leisurely visit (Passage 3).
+
+### Dining Options
+- **Pinkerton’s Barbecue**: A must-visit for barbecue lovers (Passage 2).
+- **Crawfish Cafe**: Known for its delicious seafood (Passage 2).
+- **Blood Bros. BBQ**: Another great barbecue spot (Passage 7).
+- **Teotihuacan**: Offers authentic Mexican cuisine (Passage 7).
+
+### Nightlife
+- **Anvil**: A recommended bar for nightlife enthusiasts (Passage 2).
+- **Roswell’s Saloon**: A lively spot for drinks and socializing (Passage 2).
+- **Hidden Bar**: A unique venue for a night out (Passage 4).
+
+### Day Trips
+- Consider taking a day trip to **Galveston** or the **Brazosport Beaches** for a change of scenery (Passage 2).
+
+These recommendations provide a mix of cultural, outdoor, and dining experiences, showcasing the diverse offerings of Houston."
