@@ -117,7 +117,7 @@ Contains the travel documents used for ingestion.
 The project was developed using:
 
 - Python 3.12
-- Windows 10/11
+- Windows 11
 
 The project should also work on macOS or Linux with Python 3.12 installed.
 
